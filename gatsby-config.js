@@ -37,5 +37,6 @@ module.exports = {
         blogId: `your-blog-id`,
       },
     },
+    `gatsby-theme-gallery`,
   ],
 }
